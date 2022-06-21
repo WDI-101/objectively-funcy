@@ -17,7 +17,7 @@ What we're doing today is writing functions that can manipulate the object passe
   
 * `getLastName` - returns the value of the lastName property of the given person object
   * `getLastName({firstName: 'Colin', lastName: 'Jaffe'}) // -> 'Jaffe'`
-  * `getLastName({firstName: 'Petra', lastName: 'Solano'}) // -> 'Petra'`
+  * `getLastName({firstName: 'Petra', lastName: 'Solano'}) // -> 'Solano'`
   
 * `getFullName` - returns the value of the firstName property plus the lastName property with a space in the middle for the given person object
   * `getFullName({firstName: 'Colin', lastName: 'Jaffe'}) // -> 'Colin Jaffe'`
